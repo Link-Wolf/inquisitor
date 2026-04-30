@@ -2,7 +2,6 @@
 
 <div align="center">
  <a href="https://github.com/Link-Wolf/inquisitor" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Link-Wolf&message=inquisitor&color=blue&logo=github&style=for-the-badge" alt="Link-Wolf - inquisitor"></a>
- <a href="https://"><img src="https://img.shields.io/badge/42_grade-125%2F_100-brightgreen?style=for-the-badge" alt="42 grade - 125 / 100"></a>
  <a href="https://"><img src="https://img.shields.io/badge/Year-2022-ffad9b?style=for-the-badge" alt="Year - 2022"></a>
  <a href="https://github.com/Link-Wolf/inquisitor/stargazers"><img src="https://img.shields.io/github/stars/Link-Wolf/inquisitor?style=for-the-badge&color=yellow" alt="stars - inquisitor"></a>
  <a href="https://github.com/Link-Wolf/inquisitor/network/members"><img src="https://img.shields.io/github/forks/Link-Wolf/inquisitor?style=for-the-badge&color=lightgray" alt="forks - inquisitor"></a>
@@ -13,11 +12,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>
-    <img src="https://www.42mulhouse.fr/wp-content/uploads/2022/06/logo-42-Mulhouse-white.svg" alt="Logo" width="192" height="80">
-  </a>
 
-  <h3 align="center">Piscine Cybersecurity - inquisitor</h3>
+  <h3 align="center">inquisitor</h3>
 
   <p align="center">
    <em>ARP Poisoning</em><br/>
